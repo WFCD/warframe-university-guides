@@ -60,15 +60,15 @@ Remember that you shouldn't be constantly buffing your allies and CCing/debuffin
 
 * **Frost** - Freeze Force boosts ally damage output. Ice Wave Impedance is a great CC ability as long as it doesn't kill. Snow Globe/Chilling Globe is an A+ defensive tool, just don't use it liberally and remember to erase each one with Freeze afterwards to prevent building camping habits.
 
-* **Hydroid** - Tidal Impunity both clears status ailments off allies and also grants them status proc immunity that scales off of Power Duration. Curative Undertow heals allies that stand in it.
+* **Hydroid** - Tidal Impunity both cleanses allies of status ailments and also grants them status proc immunity that scales off of Power Duration. Curative Undertow heals allies that stand in it. Pilfering Swarm can be used (not spammed) to increase resource drops.
 
 * **Mag** - Starter frame; it's comforting to learn from a partner with the same gear as you! Magnetize enemies to help players with crappy aim. Polarize to recharge shields and debuff enemies as long as it doesn't kill.
 
-* **Mirage** - Total Eclipse is a strong buffing skill no matter what its effect since you'll always be fighting near your ally. Don't prioritize one buff over the other and just let the buff apply itself passively. Prism is great CC when instantly-detonated. Hall of Mirrors can make yourself too powerful (and is sometimes confusing in close quarters for new players).
+* **Mirage** - Total Eclipse is a strong buffing skill no matter what its effect since you'll always be fighting near your ally. Don't prioritize one buff over the other and just let the buff apply itself passively. Prism is great CC when instantly-detonated. Avoid Hall of Mirrors since it can sometimes make yourself too powerful and cause confusion for new players in close quarters.
 
 * **Nezha** - Firewalker can be used to cleanse allies of status ailments. Blazing Chakram can be used to heal allies that are near the affected enemy. Safeguard is a nice protective augment for when things go south (just make sure your Power Strength isn't bonkers). Divine Spears is decent CC as long as it doesn't kill.
 
-* **Oberon** - Hallowed Ground cleanses allies of status ailments. Renewal/Phoenix Renewal grants allies a heal-over-time and cleanse if topped off while also slowing bleedout speed.
+* **Oberon** - Smite Infusion boosts ally damage output. Hallowed Ground cleanses allies of status ailments. Renewal/Phoenix Renewal grants allies a heal-over-time and cleanse if topped off while also slowing bleedout speed.
 
 * **Rhino** - Rhino Charge and Rhino Stomp are nice CC abilities as long as they don't kill. Roar/Piercing Roar is a great no-nonsense ally damage buff (and enemy debuffer with augment).
 
@@ -78,7 +78,7 @@ Remember that you shouldn't be constantly buffing your allies and CCing/debuffin
 
 * **Trinity** - Energy Vampire/Vampire Leech to provide energy (and overshields with the augment) and Blessing for a flat heal and damage reduction. Just tone down your Power Strength first and make sure you're not constantly casting both abilities (if you are, you should go somewhere lower level).
 
-* **Vauban** - Minelayer mines are great to setup and have fun with as long as they don't kill. Bastille/Repelling Bastille is great for players that struggle with aiming.
+* **Vauban** - Minelayer mines are great to setup and have fun with as long as they don't kill (and don't annoy your allies with Bounce spam). Bastille/Repelling Bastille is great for players that struggle with aiming.
 
 * **Volt** - Starter frame; it's comforting to learn from a partner with the same gear as you! Shock Trooper boosts ally damage output. Speed/Shocking Speed is a fun movement and melee attack speed buff. Electric Shield is very useful offensive cover, just don't use it liberally.
 
@@ -100,7 +100,7 @@ Remember that you shouldn't be constantly buffing your allies and CCing/debuffin
 
 * Mesa - Shooting Gallery/Muzzle Flash is a nice ally protection tool.
 
-* Nekros - Soul Survivor is a great instant revive if you don't have Vazarin. Terrify/Creeping Terrify is a great CC tool and debuff if you have the augment. Desecrate is great for creating plentiful health orbs (but make sure they don't get used to it). Avoid Shadows of the Dead, since it makes firefights super confusing even for veterans.
+* Nekros - Soul Survivor is a great instant revive if you don't have Vazarin. Terrify/Creeping Terrify is a great CC tool and debuff if you have the augment. Desecrate is great for more resource drops and creating plentiful health orbs (but make sure they don't get used to it). Avoid Shadows of the Dead, since it makes firefights super confusing even for veterans.
 
 * Nova - Worm Hole is convenient when convenient. Molecular Prime is both a great CC and buffing tool, but is still very overpowered if you don't keep your Power Range low since the chain explosions will wipe low level enemies off the map.
 
@@ -153,7 +153,7 @@ Remember that you shouldn't be constantly buffing your allies and CCing/debuffin
 
 **MELEE**
 
-For all selections, if you have the space, stick on Finishing Touch so that your gimped damage doesn't bite you in the ass during stealth kill prompts or frontal finishers.
+For all selections, if you have the space, stick on Finishing Touch/Covert Lethality so that your gimped damage doesn't bite you in the ass during stealth kill prompts or frontal finishers.
 
 * **Ack & Brunt** - Electromagnetic Shielding is a nice mod that you can use to help take a little heat off of allies during stationary missions like defense or mobile defense (it also teaches them to stay near the damn objective).
 
@@ -163,4 +163,4 @@ For all selections, if you have the space, stick on Finishing Touch so that your
 
 -----
 
-/u/lostguru
+Author: /u/lostguru
