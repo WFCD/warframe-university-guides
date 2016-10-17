@@ -16,4 +16,4 @@ To commit/submit a pull request to have your changes pulled in, it will have to 
 
 You can find me, Tobiah#8452 on Discord. Join us!
 
-[![Get on Discord, and learn about Warframe](https://discordapp.com/api/guilds/227487694777876493/embed.png?style=banner4)](https://discord.gg/u93VBsc "Get on Discord, and learn about Warframe!3)   
+[![Get on Discord, and learn about Warframe](https://discordapp.com/api/guilds/227487694777876493/embed.png?style=banner4)](https://discord.gg/u93VBsc "Get on Discord, and learn about Warframe!")   
