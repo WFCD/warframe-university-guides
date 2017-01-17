@@ -1,6 +1,6 @@
 # warframe-university-guides
 
-[![Supported by Warframe Community Developers](https://github.com/Warframe-Community-Developers/banner/blob/master/banner.png)](https://github.com/Warframe-Community-Developers "Supported by Warframe Community Developers")
+[![Supported by Warframe Community Developers](https://raw.githubusercontent.com/Warframe-Community-Developers/banner/master/banner.png)](https://github.com/Warframe-Community-Developers "Supported by Warframe Community Developers")
 
 This is a simple set of guides for the use of the Warframe community to help teach new and experienced players new things.
 
